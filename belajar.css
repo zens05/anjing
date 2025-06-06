@@ -12,8 +12,7 @@ html {
 
 .ul-menu {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
     height: 100%;
     width: 100%;
 }
